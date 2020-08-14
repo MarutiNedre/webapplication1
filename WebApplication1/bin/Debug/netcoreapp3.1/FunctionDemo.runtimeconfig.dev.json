@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nedre\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nedre\\.nuget\\packages"
+    ]
+  }
+}

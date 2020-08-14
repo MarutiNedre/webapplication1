@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EFYlsXbKWrLY3l05mIP6vEfIPNVnCBQm0Aloa0Kb/inQ7V9rByQmZqoWMYr0g3A5+5GCM51/FQMNxqy7U2/fNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nedre\\source\\repos\\WebApplication1\\WebApplication1\\FunctionDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nedre\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
